@@ -1,0 +1,241 @@
+"Date","Franchise","Region","Revenue","Bookings","New_Customers","Returning_Customers","Complaints","Complaint_Category","Instructor_Count","Lesson_Capacity","Attendance_Rate","Marketing_Spend","Customer_Satisfaction","Cancellation_Rate"
+2024-01-01,"Leeds","North",21977,340,77,279,28,"Cancellation",7,621,75.6,3250,4.4,3.9
+2024-01-01,"Manchester","North",32294,497,34,450,5,"Cancellation",9,565,81.1,3750,3.6,7.3
+2024-01-01,"Liverpool","North",25642,394,29,408,15,"Booking Issue",10,616,79.9,2000,4.4,15
+2024-01-01,"Birmingham","Midlands",27635,425,52,153,11,"Booking Issue",5,453,91.1,6000,3.5,8.8
+2024-01-01,"Nottingham","Midlands",27426,422,21,222,13,"Cancellation",4,472,85.7,2750,4.2,7.8
+2024-01-01,"Leicester","Midlands",27581,424,72,304,15,"Pool Facilities",12,600,92.4,5250,4,14
+2024-01-01,"Bristol","South",30412,468,77,292,10,"Cancellation",7,634,97.4,3500,3.6,11.4
+2024-01-01,"Reading","South",35907,552,69,327,10,"Instructor Quality",4,661,75.1,2250,3.8,10.3
+2024-01-01,"Southampton","South",26193,403,35,443,12,"Cancellation",6,547,82.5,1750,4.1,2
+2024-01-01,"Newcastle","North",27320,420,26,319,4,"Pool Facilities",8,686,88.8,1000,4.6,1
+2024-02-01,"Leeds","North",20464,319,42,380,22,"Booking Issue",12,455,84.3,2000,4.9,8.1
+2024-02-01,"Manchester","North",30370,467,60,287,5,"Cancellation",11,664,86.3,5250,3.5,7.1
+2024-02-01,"Liverpool","North",26971,415,53,450,6,"Instructor Quality",8,697,85.1,5500,4.2,7.3
+2024-02-01,"Birmingham","Midlands",25078,386,46,341,9,"Cancellation",4,537,80.5,2250,4,2.9
+2024-02-01,"Nottingham","Midlands",25238,388,79,405,4,"Customer Service",12,657,85.1,6000,4.6,10.6
+2024-02-01,"Leicester","Midlands",24302,374,43,433,13,"Cancellation",7,451,75.7,3250,4.1,8
+2024-02-01,"Bristol","South",29417,453,28,426,12,"Pool Facilities",5,640,82.2,2750,3.8,14.4
+2024-02-01,"Reading","South",28584,440,44,315,13,"Booking Issue",10,627,83.6,5750,4.6,13.4
+2024-02-01,"Southampton","South",24838,382,74,441,11,"Instructor Quality",4,664,88.3,2500,4.8,11.8
+2024-02-01,"Newcastle","North",22503,346,30,361,8,"Customer Service",6,699,90.9,2500,4.9,1.8
+2024-03-01,"Leeds","North",21749,342,68,369,16,"Booking Issue",6,555,88.7,5500,5,12.9
+2024-03-01,"Manchester","North",35611,548,76,410,4,"Instructor Quality",5,606,95.8,2500,4.5,14.5
+2024-03-01,"Liverpool","North",29197,449,47,209,5,"Instructor Quality",4,485,92.9,4250,3.8,14.9
+2024-03-01,"Birmingham","Midlands",27020,416,44,171,10,"Instructor Quality",8,597,89.9,2500,3.9,4
+2024-03-01,"Nottingham","Midlands",24254,373,38,422,14,"Booking Issue",7,557,91.4,5000,4.2,12.5
+2024-03-01,"Leicester","Midlands",28150,433,46,270,7,"Pool Facilities",5,491,97.4,4500,4.9,9.9
+2024-03-01,"Bristol","South",24724,380,67,327,9,"Cancellation",4,523,91.5,4500,4.8,4.1
+2024-03-01,"Reading","South",29786,458,33,336,6,"Pool Facilities",4,615,92.7,6000,4.1,11.3
+2024-03-01,"Southampton","South",27972,430,35,433,4,"Instructor Quality",4,510,82.7,1750,4.1,9.2
+2024-03-01,"Newcastle","North",24738,381,73,396,13,"Pool Facilities",4,527,79.7,4250,4.5,14
+2024-04-01,"Leeds","North",22662,358,30,347,13,"Booking Issue",4,658,87.2,2000,4.4,1.3
+2024-04-01,"Manchester","North",34828,536,34,411,1,"Instructor Quality",11,607,86.5,4000,4.3,11.4
+2024-04-01,"Liverpool","North",22934,353,25,390,10,"Booking Issue",9,575,94.6,2500,4.3,10.9
+2024-04-01,"Birmingham","Midlands",22419,345,27,411,8,"Instructor Quality",11,620,82.9,2500,3.5,2.2
+2024-04-01,"Nottingham","Midlands",27104,417,67,402,9,"Pool Facilities",8,510,76.2,1500,4.5,11.7
+2024-04-01,"Leicester","Midlands",29093,448,22,372,9,"Booking Issue",10,609,92.5,3750,3.6,4.3
+2024-04-01,"Bristol","South",28787,443,24,385,11,"Customer Service",5,607,88.7,4500,4.1,14.7
+2024-04-01,"Reading","South",26791,412,63,186,7,"Booking Issue",8,506,88.2,5250,4.4,8.1
+2024-04-01,"Southampton","South",26293,405,54,170,11,"Pool Facilities",12,637,78.6,1750,4.1,11.8
+2024-04-01,"Newcastle","North",25510,392,66,295,11,"Instructor Quality",4,597,84.5,1000,3.9,7.6
+2024-05-01,"Leeds","North",19938,318,21,210,19,"Instructor Quality",7,681,90.7,1750,4.7,12.7
+2024-05-01,"Manchester","North",33754,519,55,298,5,"Instructor Quality",5,658,91.2,4000,4.7,4.9
+2024-05-01,"Liverpool","North",30586,471,31,400,6,"Customer Service",7,612,89.4,1250,4.8,5.2
+2024-05-01,"Birmingham","Midlands",26952,415,76,206,14,"Instructor Quality",12,579,93.4,6000,4.7,13
+2024-05-01,"Nottingham","Midlands",22982,354,21,157,12,"Pool Facilities",6,585,91.1,5250,4.3,7
+2024-05-01,"Leicester","Midlands",24249,373,53,419,8,"Instructor Quality",6,545,95.4,5500,3.8,6.1
+2024-05-01,"Bristol","South",34242,527,59,335,11,"Instructor Quality",7,662,76,2750,4.6,2.3
+2024-05-01,"Reading","South",30313,466,27,205,4,"Cancellation",6,524,78.9,3250,4.7,13.4
+2024-05-01,"Southampton","South",29025,447,70,245,13,"Pool Facilities",6,663,86.7,4000,3.6,7.1
+2024-05-01,"Newcastle","North",26321,405,21,368,6,"Customer Service",7,515,78.3,1250,4.6,12.8
+2024-06-01,"Leeds","North",19051,307,78,420,20,"Customer Service",12,601,86.7,4500,3.6,4.6
+2024-06-01,"Manchester","North",30673,472,44,230,5,"Booking Issue",7,506,76.3,3500,4.5,7.9
+2024-06-01,"Liverpool","North",26178,403,38,351,12,"Instructor Quality",5,498,83.9,4250,3.6,13.7
+2024-06-01,"Birmingham","Midlands",26692,411,52,216,7,"Cancellation",4,495,82.5,5750,4.7,1.8
+2024-06-01,"Nottingham","Midlands",25842,398,76,314,14,"Cancellation",12,515,90.3,5500,4.9,14.1
+2024-06-01,"Leicester","Midlands",30173,464,62,290,9,"Instructor Quality",11,450,80.1,3750,4.6,13.5
+2024-06-01,"Bristol","South",27938,430,47,210,11,"Pool Facilities",7,549,85.3,5000,4.9,11.3
+2024-06-01,"Reading","South",25907,399,22,201,14,"Booking Issue",5,524,77.1,6000,4.9,7.9
+2024-06-01,"Southampton","South",29310,451,70,276,12,"Pool Facilities",7,455,75.8,1000,4.2,9.8
+2024-06-01,"Newcastle","North",26322,405,60,446,14,"Cancellation",5,566,79.8,4000,4.2,12.6
+2024-07-01,"Leeds","North",22531,363,65,334,18,"Cancellation",4,577,87.8,1500,3.7,10.9
+2024-07-01,"Manchester","North",33969,523,60,431,8,"Customer Service",4,650,90.9,4000,4.2,14.7
+2024-07-01,"Liverpool","North",27699,426,63,410,5,"Customer Service",7,494,78.3,1750,4.2,7.6
+2024-07-01,"Birmingham","Midlands",24853,382,47,362,13,"Cancellation",4,549,81.1,4250,4.5,5.6
+2024-07-01,"Nottingham","Midlands",24767,381,60,417,13,"Pool Facilities",11,688,90.3,2000,4.9,11.2
+2024-07-01,"Leicester","Midlands",23292,358,59,419,14,"Pool Facilities",6,673,81.2,4500,3.6,11.7
+2024-07-01,"Bristol","South",30125,463,37,182,11,"Pool Facilities",5,652,89.7,2500,4,4.8
+2024-07-01,"Reading","South",30316,466,61,222,7,"Cancellation",10,469,95.2,2000,4.7,11.9
+2024-07-01,"Southampton","South",26626,410,58,287,12,"Cancellation",9,529,78.3,2500,4.5,11.5
+2024-07-01,"Newcastle","North",28115,433,32,372,10,"Instructor Quality",8,615,92.6,4750,4.9,11.8
+2024-08-01,"Leeds","North",20249,330,44,223,29,"Pool Facilities",9,616,94.3,4500,3.7,10.3
+2024-08-01,"Manchester","North",31299,482,24,389,6,"Cancellation",9,680,93.4,6000,4.8,8.9
+2024-08-01,"Liverpool","North",26049,401,54,161,8,"Booking Issue",7,665,95.3,3750,4.8,12.4
+2024-08-01,"Birmingham","Midlands",25291,389,75,223,12,"Pool Facilities",5,546,76.6,4500,3.6,8
+2024-08-01,"Nottingham","Midlands",25631,394,42,410,4,"Instructor Quality",4,689,86.5,1750,4.9,5.7
+2024-08-01,"Leicester","Midlands",25014,385,78,380,6,"Pool Facilities",8,510,89,3750,5,12.1
+2024-08-01,"Bristol","South",28557,439,25,394,14,"Customer Service",11,493,93.4,3750,4.6,4.9
+2024-08-01,"Reading","South",31755,489,38,277,8,"Pool Facilities",6,616,78.3,4000,4.9,8.1
+2024-08-01,"Southampton","South",25502,392,49,425,9,"Instructor Quality",12,666,79,5250,4.7,10.7
+2024-08-01,"Newcastle","North",21989,338,51,224,14,"Booking Issue",12,638,86.1,4000,4.9,9.4
+2024-09-01,"Leeds","North",24554,399,44,353,28,"Instructor Quality",8,655,82.2,2500,3.8,9.5
+2024-09-01,"Manchester","North",34632,533,33,448,3,"Customer Service",7,581,75.4,4250,4.7,2.1
+2024-09-01,"Liverpool","North",26236,404,27,282,6,"Instructor Quality",4,517,95.1,2750,4,4.5
+2024-09-01,"Birmingham","Midlands",27341,421,59,250,6,"Booking Issue",12,687,88.1,2000,4.5,5.7
+2024-09-01,"Nottingham","Midlands",28229,434,24,206,8,"Instructor Quality",9,658,81.3,2750,3.9,7.7
+2024-09-01,"Leicester","Midlands",25208,388,49,372,9,"Cancellation",6,642,82.8,2250,3.5,5.5
+2024-09-01,"Bristol","South",30356,467,59,433,13,"Instructor Quality",9,589,87.5,5250,4.5,1.8
+2024-09-01,"Reading","South",27862,429,50,280,9,"Booking Issue",5,527,89.6,3000,3.9,2.2
+2024-09-01,"Southampton","South",20901,322,40,318,14,"Pool Facilities",12,667,82.5,2750,3.7,14.8
+2024-09-01,"Newcastle","North",24951,384,30,214,14,"Instructor Quality",11,669,80.5,1500,4.2,8.8
+2024-10-01,"Leeds","North",21904,360,36,285,14,"Pool Facilities",5,652,75.8,4500,4,9.6
+2024-10-01,"Manchester","North",32746,504,36,429,3,"Instructor Quality",11,520,75.8,3250,4.1,1.8
+2024-10-01,"Liverpool","North",26336,405,74,211,6,"Customer Service",9,641,82.8,4750,4.4,14.4
+2024-10-01,"Birmingham","Midlands",26455,407,78,366,13,"Pool Facilities",7,463,75.1,4750,4.6,13.3
+2024-10-01,"Nottingham","Midlands",24883,383,77,381,13,"Booking Issue",8,484,83.6,4750,4.1,14.5
+2024-10-01,"Leicester","Midlands",27980,430,35,351,11,"Booking Issue",9,553,92.4,3750,4.3,2.3
+2024-10-01,"Bristol","South",28505,439,62,251,9,"Customer Service",6,519,95.3,2250,4,4.2
+2024-10-01,"Reading","South",27716,426,63,183,8,"Booking Issue",12,599,85.3,4250,3.5,8.7
+2024-10-01,"Southampton","South",25106,386,46,179,7,"Cancellation",6,528,83.1,4250,4.3,4.9
+2024-10-01,"Newcastle","North",22863,352,42,156,6,"Booking Issue",8,556,93.3,5000,4.2,8.4
+2024-11-01,"Leeds","North",22813,376,41,285,21,"Cancellation",10,539,93.8,1250,4.4,9.3
+2024-11-01,"Manchester","North",31462,484,21,349,1,"Pool Facilities",10,579,88.3,4750,5,13.7
+2024-11-01,"Liverpool","North",30005,462,47,217,10,"Customer Service",12,540,86.8,5500,4.2,7.5
+2024-11-01,"Birmingham","Midlands",25173,387,63,251,10,"Cancellation",12,664,81.5,1000,4,13.4
+2024-11-01,"Nottingham","Midlands",29892,460,25,328,7,"Pool Facilities",12,579,77.4,1750,4.1,13.8
+2024-11-01,"Leicester","Midlands",26961,415,28,158,11,"Instructor Quality",10,532,76.7,1250,4.8,14.4
+2024-11-01,"Bristol","South",30006,462,62,281,14,"Customer Service",7,518,75.2,5250,3.5,11.6
+2024-11-01,"Reading","South",31236,481,65,248,8,"Instructor Quality",12,665,96.3,4250,3.8,6
+2024-11-01,"Southampton","South",25578,394,57,327,12,"Instructor Quality",11,490,94.9,2000,4.2,1.9
+2024-11-01,"Newcastle","North",23954,369,59,195,4,"Customer Service",5,684,85.2,5500,4.4,4.3
+2024-12-01,"Leeds","North",20423,342,32,254,23,"Booking Issue",12,665,92.9,3500,3.8,10.5
+2024-12-01,"Manchester","North",29260,450,70,214,2,"Instructor Quality",5,603,93.2,4000,3.8,12.5
+2024-12-01,"Liverpool","North",28500,438,64,273,7,"Instructor Quality",4,657,86.4,1000,4.6,2.8
+2024-12-01,"Birmingham","Midlands",24889,383,27,241,15,"Booking Issue",4,583,81.4,3250,4.1,13.6
+2024-12-01,"Nottingham","Midlands",25596,394,69,312,5,"Booking Issue",12,556,80.9,3250,3.7,4.2
+2024-12-01,"Leicester","Midlands",26241,404,76,354,15,"Customer Service",8,489,95.5,3500,4,7.3
+2024-12-01,"Bristol","South",28387,437,41,415,8,"Cancellation",5,632,85.3,5750,4.1,5.8
+2024-12-01,"Reading","South",30530,470,76,406,6,"Pool Facilities",12,599,89.1,1250,4.6,8.5
+2024-12-01,"Southampton","South",29498,454,80,433,14,"Instructor Quality",4,500,83.2,1000,4.6,6.9
+2024-12-01,"Newcastle","North",25686,395,59,312,13,"Pool Facilities",7,664,78.9,5750,4.6,9.6
+2025-01-01,"Leeds","North",18217,310,41,281,23,"Customer Service",10,491,94.8,2750,3.9,14.7
+2025-01-01,"Manchester","North",29342,451,56,223,2,"Pool Facilities",8,661,91.9,6000,5,9.8
+2025-01-01,"Liverpool","North",25126,387,67,245,7,"Instructor Quality",5,521,93.2,5750,4.3,11.8
+2025-01-01,"Birmingham","Midlands",24563,378,35,312,11,"Booking Issue",7,630,93.8,4500,3.5,12.2
+2025-01-01,"Nottingham","Midlands",27733,427,36,282,6,"Instructor Quality",8,610,76.1,4000,4.3,5.3
+2025-01-01,"Leicester","Midlands",21502,331,66,227,12,"Instructor Quality",11,541,92.7,5500,4.4,8.8
+2025-01-01,"Bristol","South",29006,446,79,324,5,"Cancellation",4,593,86.1,5250,3.9,11
+2025-01-01,"Reading","South",28259,435,64,272,5,"Booking Issue",11,506,76.6,3750,4.5,9.7
+2025-01-01,"Southampton","South",22703,349,80,231,5,"Pool Facilities",4,547,96.9,1500,4.1,5.3
+2025-01-01,"Newcastle","North",26580,409,78,162,12,"Instructor Quality",5,684,78.8,5750,5,13.1
+2025-02-01,"Leeds","North",21560,364,44,265,25,"Cancellation",7,660,76.5,5750,3.6,12.7
+2025-02-01,"Manchester","North",31507,485,43,305,3,"Cancellation",5,573,81.2,1000,4.2,4
+2025-02-01,"Liverpool","North",30075,463,21,342,6,"Cancellation",10,516,96.1,4500,5,3
+2025-02-01,"Birmingham","Midlands",23123,356,29,445,9,"Customer Service",12,664,77.7,5500,4.2,13.6
+2025-02-01,"Nottingham","Midlands",24886,383,46,257,9,"Instructor Quality",4,587,85.8,6000,4.9,5.9
+2025-02-01,"Leicester","Midlands",28021,431,32,218,5,"Cancellation",11,607,95.3,4250,4.3,3.4
+2025-02-01,"Bristol","South",24692,380,45,151,6,"Pool Facilities",5,624,93.2,4250,4.3,3.8
+2025-02-01,"Reading","South",31817,489,25,280,11,"Booking Issue",7,692,86.9,3250,4.3,4.5
+2025-02-01,"Southampton","South",27442,422,66,400,8,"Pool Facilities",10,656,86.1,2500,4.2,7
+2025-02-01,"Newcastle","North",26606,409,25,433,4,"Customer Service",5,638,97.3,1500,4.2,11.7
+2025-03-01,"Leeds","North",18473,319,74,420,26,"Booking Issue",7,496,75.2,1250,4.5,2.1
+2025-03-01,"Manchester","North",32536,501,30,201,2,"Booking Issue",7,593,93.5,2500,4,5.9
+2025-03-01,"Liverpool","North",25296,389,32,232,9,"Customer Service",9,658,88.5,3500,4.9,8.6
+2025-03-01,"Birmingham","Midlands",26039,401,34,151,5,"Customer Service",5,627,81,6000,3.7,7.2
+2025-03-01,"Nottingham","Midlands",29304,451,31,186,14,"Instructor Quality",7,660,82.5,4750,3.6,1.6
+2025-03-01,"Leicester","Midlands",26183,403,74,239,14,"Instructor Quality",6,664,96.8,3750,4.2,1.3
+2025-03-01,"Bristol","South",30951,476,57,369,5,"Instructor Quality",11,574,81.4,4250,4.5,1.8
+2025-03-01,"Reading","South",27392,421,74,245,6,"Customer Service",6,647,90.9,3000,3.5,7.4
+2025-03-01,"Southampton","South",27871,429,21,343,9,"Booking Issue",9,511,95,1000,4.6,7.2
+2025-03-01,"Newcastle","North",28800,443,24,413,5,"Cancellation",7,606,87,4250,3.9,3.6
+2025-04-01,"Leeds","North",19926,343,28,368,19,"Pool Facilities",4,556,88.6,5250,4.8,8.4
+2025-04-01,"Manchester","North",36993,569,52,300,3,"Customer Service",11,494,84.8,1500,4.8,3
+2025-04-01,"Liverpool","North",27823,428,64,188,13,"Cancellation",10,598,93.9,5250,4.4,10.2
+2025-04-01,"Birmingham","Midlands",28471,438,61,323,14,"Customer Service",4,640,85.1,6000,4.7,6.6
+2025-04-01,"Nottingham","Midlands",24741,381,34,332,13,"Instructor Quality",7,607,79.8,5500,4.5,14.5
+2025-04-01,"Leicester","Midlands",24613,379,46,354,11,"Booking Issue",4,482,82.5,5250,4.9,4
+2025-04-01,"Bristol","South",28019,431,55,190,13,"Instructor Quality",8,635,88.6,2250,3.9,11.2
+2025-04-01,"Reading","South",33180,510,45,411,7,"Instructor Quality",7,666,86.2,3250,3.6,2.4
+2025-04-01,"Southampton","South",29644,456,65,170,5,"Booking Issue",10,457,82.3,2500,3.9,10.1
+2025-04-01,"Newcastle","North",24328,374,48,400,7,"Pool Facilities",12,520,87,3500,4.7,6.2
+2025-05-01,"Leeds","North",20610,356,66,311,30,"Customer Service",12,655,95,5500,4.7,3.3
+2025-05-01,"Manchester","North",37497,577,26,420,6,"Cancellation",4,501,78.8,4750,4.6,7
+2025-05-01,"Liverpool","North",24954,384,72,178,13,"Booking Issue",5,568,93.6,5000,3.7,9.1
+2025-05-01,"Birmingham","Midlands",24710,380,43,424,15,"Instructor Quality",12,696,97,1750,4.1,6.2
+2025-05-01,"Nottingham","Midlands",23628,364,53,303,11,"Booking Issue",5,507,92.3,6000,3.8,12.4
+2025-05-01,"Leicester","Midlands",23917,368,37,220,14,"Cancellation",7,651,79.1,5250,4.1,5.5
+2025-05-01,"Bristol","South",30881,475,34,150,14,"Customer Service",10,500,79.3,1500,4.2,4.7
+2025-05-01,"Reading","South",29533,454,48,253,9,"Booking Issue",10,601,89.2,3250,3.8,1.2
+2025-05-01,"Southampton","South",26928,414,55,378,8,"Instructor Quality",8,454,82.7,2750,4.2,1.2
+2025-05-01,"Newcastle","North",24699,380,60,200,15,"Pool Facilities",5,472,90.8,1750,4.9,11.6
+2025-06-01,"Leeds","North",18713,329,79,304,16,"Cancellation",7,587,85.3,4250,4.4,7
+2025-06-01,"Manchester","North",30809,474,34,316,6,"Instructor Quality",9,700,88.9,3250,4.3,11.8
+2025-06-01,"Liverpool","North",26015,400,57,154,14,"Instructor Quality",8,607,81.5,1500,3.9,8.1
+2025-06-01,"Birmingham","Midlands",22727,350,59,438,15,"Pool Facilities",10,515,82.3,4500,4.9,8.4
+2025-06-01,"Nottingham","Midlands",26159,402,33,333,10,"Instructor Quality",8,668,80.6,2500,3.9,10.4
+2025-06-01,"Leicester","Midlands",21843,336,66,194,10,"Cancellation",7,497,78.4,5000,4,9.2
+2025-06-01,"Bristol","South",33755,519,68,416,5,"Cancellation",5,458,93.6,1250,4.1,5.6
+2025-06-01,"Reading","South",29790,458,58,356,14,"Instructor Quality",7,500,86,3250,5,2.3
+2025-06-01,"Southampton","South",26112,402,73,250,4,"Booking Issue",11,630,78.7,4750,3.8,4.3
+2025-06-01,"Newcastle","North",28965,446,60,217,14,"Booking Issue",7,552,93.1,6000,4.4,2.2
+2025-07-01,"Leeds","North",18020,321,54,162,17,"Cancellation",11,624,75.9,3250,4.5,2.4
+2025-07-01,"Manchester","North",32298,497,45,370,1,"Booking Issue",11,562,94,5000,3.9,13.7
+2025-07-01,"Liverpool","North",26755,412,38,175,8,"Instructor Quality",9,494,86.7,1750,5,14
+2025-07-01,"Birmingham","Midlands",27834,428,47,236,10,"Customer Service",9,485,93.1,6000,4.6,2
+2025-07-01,"Nottingham","Midlands",25110,386,21,180,13,"Instructor Quality",6,546,84.3,2250,4.4,6.7
+2025-07-01,"Leicester","Midlands",22904,352,63,195,9,"Pool Facilities",7,520,77.6,6000,4.9,1.7
+2025-07-01,"Bristol","South",28829,444,46,163,9,"Instructor Quality",8,477,88.7,2750,3.6,12.9
+2025-07-01,"Reading","South",27047,416,40,169,9,"Booking Issue",4,603,94.6,2500,4.7,4.1
+2025-07-01,"Southampton","South",28316,436,73,393,15,"Booking Issue",4,680,89.4,4000,4.2,7.8
+2025-07-01,"Newcastle","North",25800,397,56,257,13,"Instructor Quality",5,456,90.9,5250,3.9,10.2
+2025-08-01,"Leeds","North",18576,332,43,174,21,"Customer Service",9,563,84.4,1500,4.6,2.5
+2025-08-01,"Manchester","North",36189,557,56,235,3,"Customer Service",6,673,93,1000,4.3,12.6
+2025-08-01,"Liverpool","North",25796,397,50,433,4,"Booking Issue",11,523,81.8,1000,4.1,4.2
+2025-08-01,"Birmingham","Midlands",25410,391,59,314,15,"Instructor Quality",6,609,78,5250,4.2,11
+2025-08-01,"Nottingham","Midlands",26052,401,35,414,9,"Cancellation",8,560,91.2,5500,3.6,4.7
+2025-08-01,"Leicester","Midlands",22772,350,72,226,7,"Pool Facilities",12,697,85.8,3000,3.6,4.5
+2025-08-01,"Bristol","South",31672,487,27,157,5,"Instructor Quality",12,642,81.3,3750,3.8,1.1
+2025-08-01,"Reading","South",28489,438,76,295,9,"Pool Facilities",8,579,81.2,5000,4.3,3
+2025-08-01,"Southampton","South",27115,417,29,332,13,"Instructor Quality",4,595,79.2,1250,4.9,13.4
+2025-08-01,"Newcastle","North",24445,376,67,448,8,"Cancellation",10,468,95.2,5750,4.1,11
+2025-09-01,"Leeds","North",18224,329,77,330,33,"Booking Issue",4,610,83.4,1250,4.2,12.6
+2025-09-01,"Manchester","North",30565,470,42,353,5,"Cancellation",9,488,76.9,1750,4.6,14.4
+2025-09-01,"Liverpool","North",25896,398,30,219,4,"Booking Issue",10,486,95,4000,3.8,1.2
+2025-09-01,"Birmingham","Midlands",23814,366,21,341,8,"Cancellation",10,530,86.4,3000,4.7,4.4
+2025-09-01,"Nottingham","Midlands",23922,368,34,330,11,"Instructor Quality",9,512,77.6,1500,4.5,14
+2025-09-01,"Leicester","Midlands",23271,358,28,275,12,"Pool Facilities",8,679,93.7,5500,4.8,1.2
+2025-09-01,"Bristol","South",28818,443,76,413,7,"Instructor Quality",10,499,93.5,5750,4.8,7.1
+2025-09-01,"Reading","South",29208,449,78,248,8,"Instructor Quality",6,469,84.4,5000,3.6,12.8
+2025-09-01,"Southampton","South",25675,395,56,296,14,"Instructor Quality",11,543,87.4,4000,4.9,4.9
+2025-09-01,"Newcastle","North",27214,419,79,333,13,"Customer Service",7,663,78.2,4250,4.9,13
+2025-10-01,"Leeds","North",18016,328,57,330,36,"Customer Service",10,472,86,2250,3.8,14.4
+2025-10-01,"Manchester","North",32149,495,30,425,5,"Instructor Quality",9,483,76.6,1250,4.2,6.3
+2025-10-01,"Liverpool","North",25640,394,63,367,7,"Customer Service",9,636,91.4,5000,4,4.9
+2025-10-01,"Birmingham","Midlands",28250,435,65,365,11,"Instructor Quality",11,688,87.1,6000,4,12.8
+2025-10-01,"Nottingham","Midlands",23367,359,80,422,9,"Customer Service",4,595,78.1,2750,4.4,6.1
+2025-10-01,"Leicester","Midlands",27496,423,80,266,7,"Pool Facilities",10,472,94.9,1500,3.9,4.1
+2025-10-01,"Bristol","South",24924,383,41,348,14,"Instructor Quality",12,491,88.9,5250,4.2,2.7
+2025-10-01,"Reading","South",28542,439,72,288,7,"Instructor Quality",7,590,93.4,3000,3.9,6.8
+2025-10-01,"Southampton","South",29558,455,63,369,15,"Instructor Quality",6,658,79.5,4750,4.4,5.2
+2025-10-01,"Newcastle","North",21602,332,61,416,5,"Cancellation",10,544,81.1,4000,4.3,3.9
+2025-11-01,"Leeds","North",18450,337,61,267,33,"Instructor Quality",4,608,78.1,6000,3.9,6.6
+2025-11-01,"Manchester","North",36888,568,67,222,7,"Customer Service",5,503,97.1,1250,4.2,1.7
+2025-11-01,"Liverpool","North",24214,373,30,369,12,"Pool Facilities",7,547,83.3,6000,4.4,5.4
+2025-11-01,"Birmingham","Midlands",25572,393,37,373,5,"Customer Service",7,668,95.4,1000,4.1,14.9
+2025-11-01,"Nottingham","Midlands",27008,416,29,245,15,"Cancellation",10,581,97.6,5250,4.8,8.7
+2025-11-01,"Leicester","Midlands",28883,444,54,265,13,"Booking Issue",8,535,76.5,5250,3.7,8.3
+2025-11-01,"Bristol","South",30737,473,62,340,7,"Instructor Quality",11,594,97,1000,4.8,8.1
+2025-11-01,"Reading","South",27788,428,23,218,11,"Instructor Quality",4,653,95.1,2250,3.7,8.9
+2025-11-01,"Southampton","South",26686,411,23,237,10,"Customer Service",7,609,77.4,4000,4.5,14.8
+2025-11-01,"Newcastle","North",24273,373,20,159,8,"Pool Facilities",5,491,95.6,1750,3.9,4.9
+2025-12-01,"Leeds","North",16871,315,31,431,20,"Customer Service",6,599,86,3500,4.2,6.2
+2025-12-01,"Manchester","North",28707,442,44,305,4,"Booking Issue",9,654,77.1,2000,4.3,5.1
+2025-12-01,"Liverpool","North",31143,479,48,400,5,"Booking Issue",4,651,97.9,4750,3.5,13.6
+2025-12-01,"Birmingham","Midlands",25545,393,30,418,10,"Booking Issue",4,662,83.3,1000,4.5,2.5
+2025-12-01,"Nottingham","Midlands",29720,457,78,387,4,"Instructor Quality",5,639,97.5,4250,3.8,8.3
+2025-12-01,"Leicester","Midlands",26807,412,64,320,11,"Pool Facilities",4,623,91.8,5000,3.7,5.6
+2025-12-01,"Bristol","South",27199,418,73,212,5,"Booking Issue",12,667,79.1,2750,4.8,14.7
+2025-12-01,"Reading","South",30486,469,29,353,11,"Instructor Quality",8,496,87.4,1500,4.6,9.2
+2025-12-01,"Southampton","South",24539,378,54,375,6,"Customer Service",11,597,82.6,2500,4.9,7.5
+2025-12-01,"Newcastle","North",26746,411,29,234,12,"Cancellation",5,625,83.1,2500,4.1,12.7
